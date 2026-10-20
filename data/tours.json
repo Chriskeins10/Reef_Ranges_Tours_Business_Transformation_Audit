@@ -1,0 +1,52 @@
+[
+  {
+    "id": "GBR-FULL",
+    "name": "Great Barrier Reef Full Day",
+    "duration_hours": 8,
+    "max_capacity": 40,
+    "price_aud": 249,
+    "description": "Full day snorkel and reef experience departing Cairns marina.",
+    "departure_point": "Cairns Reef Fleet Terminal",
+    "pickup_available": true
+  },
+  {
+    "id": "GBR-HALF",
+    "name": "Great Barrier Reef Half Day",
+    "duration_hours": 5,
+    "max_capacity": 30,
+    "price_aud": 179,
+    "description": "Half day outer reef snorkel trip.",
+    "departure_point": "Cairns Reef Fleet Terminal",
+    "pickup_available": true
+  },
+  {
+    "id": "DAINTREE",
+    "name": "Daintree Rainforest & Cape Tribulation",
+    "duration_hours": 10,
+    "max_capacity": 24,
+    "price_aud": 219,
+    "description": "Full day rainforest, river cruise and Cape Tribulation beach.",
+    "departure_point": "Cairns or Port Douglas",
+    "pickup_available": true
+  },
+  {
+    "id": "KURANDA",
+    "name": "Kuranda Scenic Railway & Skyrail",
+    "duration_hours": 7,
+    "max_capacity": 50,
+    "price_aud": 159,
+    "description": "Rainforest village via scenic railway and return by Skyrail.",
+    "departure_point": "Freshwater Station / Skyrail terminal",
+    "pickup_available": false
+  },
+  {
+    "id": "WATERFALLS",
+    "name": "Atherton Tablelands Waterfalls",
+    "duration_hours": 9,
+    "max_capacity": 20,
+    "price_aud": 189,
+    "description": "Waterfalls, crater lakes and local produce tasting.",
+    "departure_point": "Cairns CBD",
+    "pickup_available": true
+  }
+]

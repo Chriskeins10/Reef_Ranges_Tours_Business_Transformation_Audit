@@ -1,0 +1,68 @@
+[
+  {
+    "booking_id": "BK-1001",
+    "tour_id": "GBR-FULL",
+    "date": "2026-10-22",
+    "party_size": 4,
+    "customer_name": "Alex Thompson",
+    "email": "alex.t@example.com",
+    "status": "confirmed",
+    "special_needs": "None",
+    "created_at": "2026-10-15T09:12:00"
+  },
+  {
+    "booking_id": "BK-1002",
+    "tour_id": "GBR-FULL",
+    "date": "2026-10-22",
+    "party_size": 6,
+    "customer_name": "Priya Sharma",
+    "email": "priya.s@example.com",
+    "status": "confirmed",
+    "special_needs": "Vegetarian lunch",
+    "created_at": "2026-10-16T14:30:00"
+  },
+  {
+    "booking_id": "BK-1003",
+    "tour_id": "DAINTREE",
+    "date": "2026-10-23",
+    "party_size": 2,
+    "customer_name": "James Wilson",
+    "email": "j.wilson@example.com",
+    "status": "confirmed",
+    "special_needs": "None",
+    "created_at": "2026-10-17T11:05:00"
+  },
+  {
+    "booking_id": "BK-1004",
+    "tour_id": "KURANDA",
+    "date": "2026-10-24",
+    "party_size": 3,
+    "customer_name": "Sophie Lee",
+    "email": "sophie.lee@example.com",
+    "status": "confirmed",
+    "special_needs": "Wheelchair access required",
+    "created_at": "2026-10-18T16:20:00"
+  },
+  {
+    "booking_id": "BK-1005",
+    "tour_id": "GBR-HALF",
+    "date": "2026-10-25",
+    "party_size": 5,
+    "customer_name": "Marco Rossi",
+    "email": "marco.r@example.com",
+    "status": "provisional",
+    "special_needs": "None",
+    "created_at": "2026-10-19T08:45:00"
+  },
+  {
+    "booking_id": "BK-1006",
+    "tour_id": "DAINTREE",
+    "date": "2023-10-26",
+    "party_size": 3,
+    "customer_name": "And Email",
+    "email": "sam.t@example.com",
+    "status": "provisional",
+    "special_needs": "None stated",
+    "created_at": "2026-10-20T07:35:50"
+  }
+]
